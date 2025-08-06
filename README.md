@@ -1,1 +1,1 @@
-# eco-risk-prediction
+# ecg-risk-prediction
