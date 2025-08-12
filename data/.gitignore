@@ -1,1 +1,12 @@
+# Ignorer tous les fichiers dans data/ sauf .gitkeep
+/data/*
+!/data/.gitkeep
+
+# Ignorer fichiers temporaires Python et Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.env
+.DS_Store
 
