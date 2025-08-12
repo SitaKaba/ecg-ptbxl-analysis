@@ -1,1 +1,1 @@
-# ecg-risk-prediction
+# ecg-ptbxl-analysis
